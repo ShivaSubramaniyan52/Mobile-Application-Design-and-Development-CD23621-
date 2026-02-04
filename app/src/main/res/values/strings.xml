@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">1-d</string>
+    <string name="temp_converter_title">Temperature Converter</string>
+    <string name="enter_temperature">Enter temperature</string>
+    <string name="celsius_to_fahrenheit">Celsius to Fahrenheit</string>
+    <string name="fahrenheit_to_celsius">Fahrenheit to Celsius</string>
+    <string name="please_enter_temperature">Please enter temperature</string>
+    <string name="result_fahrenheit">Result: %.2f °F</string>
+    <string name="result_celsius">Result: %.2f °C</string>
+</resources>
